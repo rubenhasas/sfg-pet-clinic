@@ -15,12 +15,12 @@
     </parent>
     <groupId>sfg</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>1.19.03</version>
     <name>sfg-pet-clinic</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demon project for Spring Boot</description>
 
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>2.1</java.version>
     </properties>
 
     <build>
